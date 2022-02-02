@@ -1,4 +1,4 @@
-#TODO: ksanakoitagma
+
 
 import random
 import time
