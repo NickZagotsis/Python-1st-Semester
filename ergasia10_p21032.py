@@ -1,5 +1,4 @@
-from hashlib import new
-from re import L
+
 import string
 def toBinary(a):
     l,m=[],[]
