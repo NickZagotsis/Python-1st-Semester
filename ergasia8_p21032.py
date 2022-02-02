@@ -1,4 +1,4 @@
-#TODO look it again
+
 import random
 def game(r,c):
     global wpl
